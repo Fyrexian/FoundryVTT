@@ -1,0 +1,41 @@
+{
+  "name": "bruhleague",
+  "title": "Bruh League Runeterra",
+  "description": "<p>the bois go through league and fight creatures, and probably will experience as much plot as league has.</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "label": "images",
+      "entity": "JournalEntry",
+      "name": "images",
+      "path": "packs/images.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\fyrex\\AppData\\Local\\FoundryVTT\\Data\\worlds\\bruhleague\\packs\\images.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "rock.png",
+  "system": "dnd5e",
+  "coreVersion": "0.7.9",
+  "systemVersion": "1.2.4",
+  "nextSession": "2021-03-14T18:30:00.000Z",
+  "availability": 0,
+  "unavailable": false,
+  "id": "bruhleague"
+}
